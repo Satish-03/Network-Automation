@@ -3,8 +3,8 @@ Transferring files such Images, packages or any other files into multiple networ
   
   Instructions to use 
 	
-    Privide IPs in a execl sheet as given attached
-    Provide file that needs to be copied as input arguments example if you need to copy file image.bin into multiple devices. Provide image.bin as input. Keep your file in the same folder where your other files are.
-    run  ./mailfile.py image.bin
-    File will get copied in all devices
-    Make sure you keep all files in a same folder or provide file with path.
+    * Privide IPs in a execl sheet as given attached
+    * Provide file that needs to be copied as input arguments example if you need to copy file image.bin into multiple devices. Provide image.bin as input. Keep your file in the same folder where your other files are.
+    * run  ./mailfile.py image.bin
+    * File will get copied in all devices
+    * Make sure you keep all files in a same folder or provide file with path.
