@@ -1,5 +1,5 @@
 # SCP File Transfer
-Transferring files such Images, packages or any other files into multiple network devices is time consuming. By running this application, a file gets copied into number of devices seamlessly. SCP is used when the file is small as it is not capable of transferring larger files.
+Transferring files such Images, packages or any other files into multiple network devices is time consuming. By running this application, a file gets copied into number of devices seamlessly. SCP is used where the file size is small as it is not capable of transferring larger files.
   
   Instructions to use 
 	
