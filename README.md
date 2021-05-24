@@ -8,6 +8,7 @@ Transferring files such Images, packages or any other files into multiple networ
     run  ./mailfile.py image.bin
     File will get copied in all devices
     Make sure you keep all files in a same folder or provide file with path
+    hguhr
 
    
 	
