@@ -3,7 +3,7 @@ Transferring files such Images, packages or any other files into multiple networ
   
   Instructions to use 
 	
-    * Privide IPs in a .csv file
+    * Provide IPs in a .csv file
     * Run the final.py along with file to be transferred and provide the vendor type like cisco, arista or Juniper. Use help function to for more clarity.
 
 
